@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this game, please cite it as below."
+title: "Laksekapteinen: A browser-based teaching game on short sea shipping versus road transport for Norwegian salmon exports"
+authors:
+  - family-names: Irtem
+    given-names: Sevket Suleyman
+    orcid: "https://orcid.org/0000-0001-8101-951X"
+version: v1.0
+date-released: 2026-10-20
+doi: 10.5281/zenodo.23494284
+url: "https://sevketirtem.github.io/laksekapteinen"
+license: CC-BY-4.0
